@@ -1,0 +1,10 @@
+C:\DotnetProjects\EmpDBSol\bin\Debug\EmpDBSol.dacpac
+C:\DotnetProjects\EmpDBSol\bin\Debug\EmpDBSol.dll
+C:\DotnetProjects\EmpDBSol\bin\Debug\EmpDBSol.pdb
+C:\DotnetProjects\EmpDBSol\obj\Debug\EmpDBSol.sqlproj.AssemblyReference.cache
+C:\DotnetProjects\EmpDBSol\obj\Debug\Model.xml
+C:\DotnetProjects\EmpDBSol\obj\Debug\refactor.xml
+C:\DotnetProjects\EmpDBSol\obj\Debug\postdeploy.sql
+C:\DotnetProjects\EmpDBSol\obj\Debug\predeploy.sql
+C:\DotnetProjects\EmpDBSol\obj\Debug\EmpDBSol.dll
+C:\DotnetProjects\EmpDBSol\obj\Debug\EmpDBSol.pdb
